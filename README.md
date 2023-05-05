@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpawar1409&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpawar1409" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Rishsome1409" target="_blank"><img src="https://img.shields.io/twitter/follow/rishabh83320951?logo=twitter&style=for-the-badge" alt="rishabh83320951" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rishsome1409" target="_blank"><img src="https://img.shields.io/twitter/follow/Rishsome1409?logo=twitter&style=for-the-badge" alt="Rishsome1409" /></a> </p>
 
 - 🔭 I’m currently working on **Skribbl.io**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Rishsome1409" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabh83320951" height="30" width="40" /></a>
+<a href="https://twitter.com/Rishsome1409" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishsome1409" height="30" width="40" /></a>
 <a href="https://instagram.com/pawar_1409/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pawar_1409/" height="30" width="40" /></a>
 </p>
 
