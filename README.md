@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/Rishsome1409" target="_blank"><img src="https://img.shields.io/twitter/follow/Rishsome1409?logo=twitter&style=for-the-badge" alt="Rishsome1409" /></a> </p>
 
-- 🔭 I’m currently working on **Skribbl.io**
-
-- 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **rishabhpawar1409@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
